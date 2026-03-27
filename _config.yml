@@ -1,4 +1,13 @@
 remote_theme: b2a3e8/jekyll-theme-console
 style: dark
-title: vhf2235's homepage
+plugins:
+  - jekyll-seo-tag
+url: "https://vhf2235.github.io"
+
+header_pages:
+  - index.md
+
+title: Vhf's homepage
 description: Just some nonsence.
+
+footer: 'This is a footer.'
